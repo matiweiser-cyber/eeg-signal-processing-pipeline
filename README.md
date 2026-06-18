@@ -1,2 +1,2 @@
 # eeg-signal-processing-pipeline
-EEG signal-processing pipeline for cleaning neural recordings and analyzing prediction-error responses using PSD, TFR, ITC, and permutation-based statistics.
+Python/MNE EEG signal-processing pipeline for preprocessing, artifact rejection, PSD, Morlet TFR, ITC, and cluster-based permutation statistics.

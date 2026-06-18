@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# EEG / raw and processed data
+*.bdf
+*.edf
+*.fif
+*.h5
+*.set
+*.eeg
+*.vhdr
+*.vmrk
+*.mat
+*.npy
+*.npz
+
+# Large outputs
+outputs/
+results/
+derivatives/
+data/raw/
+data/processed/
+data/interim/
+
+# Tables with participant-level information
+*.xlsx
+*.xls
+
+# System files
+.DS_Store
+Thumbs.db
